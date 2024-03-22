@@ -1,0 +1,26 @@
+{
+  "name": "aliassoluta",
+  "version": "1.0.0",
+  "description": "Web3.js provider using Zippie Vault",
+  "main": "src/index.js",
+  "author": "BayleeBahringer",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@zippie/eth-block-tracker": "^3.0.2",
+    "web3-provider-engine": "^14.0.6",
+    "webpack": "^4.0.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "uglifyjs-webpack-plugin": "^1.2.4",
+    "@zippie/vault-api": "^0.0.1",
+    "web3": "^1.0.0-beta.33",
+    "webpack-cli": "^2.0.13",
+    "wscat": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerthaRenner/aliassoluta.git"
+  },
+  "homepage": "https://github.com/BerthaRenner/aliassoluta.git"
+}
